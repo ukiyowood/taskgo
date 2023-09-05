@@ -9,5 +9,5 @@ type Task struct {
 }
 
 func (task *Task)Print(text string) {
-	fmt.Printf("[taskgo--] %s\n", text)
+	fmt.Printf("[taskgo--2] %s\n", text)
 }
